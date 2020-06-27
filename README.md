@@ -1,4 +1,4 @@
-# Linear Regression Medical Costs - r
+# Linear Regression Medical Costs - R
 
 This is a linear regression model, which uses the medical costs dataset from Kaggle and aims to predict medical costs based on key patient characteristics. 
 
